@@ -35,5 +35,5 @@ Dashboards and Business Intelligence tools in Excel and Power BI
 15-16.12.2020  
 Data Science in the R  
 
-17-182.12.2020
+17-18.12.2020
 Data Science in Python
