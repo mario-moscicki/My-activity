@@ -22,6 +22,7 @@ Whether VBA will help you perform your daily duties faster
 8-9.12.2020  
 https://labmasters.pl  
 
+In this webinar:  
 Introduction to databases and SQL language with Mgr Rafał Bućko and Mgr Łukasz Filipiuk  
 What is SQL and what is it used for.  
 Basic SQL syntax  
