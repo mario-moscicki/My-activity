@@ -39,7 +39,7 @@ What is Business Intelligence?
 What are Power Excel and Power BI tools for and how to use them (Power Query, Power Pivot, Power Map, and Power View)?  How to create professional dashboards in Excel and Power BI?  
 What are dashboards used for in business practice?  
 
-11.12.2020  
+11-12.12.2020  
 Warsaw Computer Science Days  
 
 - How hackers attack, how to use Cyber Threat Intelligence to build cybersecurity ? with Ireneusz Tarnowski  
