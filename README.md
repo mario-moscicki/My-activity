@@ -1,3 +1,6 @@
+Due to the epidemic, learning is very difficult
+
+
 # My-activity
 1-2.12.2020
 https://labmasters.pl  
