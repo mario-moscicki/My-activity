@@ -3,6 +3,10 @@ Due to the epidemic, learning is very difficult
 
 
 # My-activity
+08.2021 
+Preparing to 
+Certified Tester ISTQB Foundation Level (CTFL) -Updated 2021
+
 1-2.12.2020
 https://labmasters.pl  
 Excel tricks - job interview cases with Dr Przemysław Kusztelak  
