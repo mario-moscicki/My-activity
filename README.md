@@ -13,18 +13,14 @@ In My opionion top Interesting performances:
 - Flexible Data Setup and Caching For Cypress.io Tests with Gleg Bahmutov  (setup precondition and Save more than 2 min from your life 😉 Economies of scale are not excluded ) 
 - Testing in the Metaverse with Jonathon Wright  (rzeczywistość rozszerzona obok nas - przyszłość)  
 - How Automated Visual Regression Helped Us Release Faster with Confidence  
--- UX  Testing - portion of philosophy. How sites, apps should be looks like to all of us:  
+  
+- UX  Testing - portion of philosophy. How sites, apps should be looks like to all of us:  
   User Experience (UX) Testing is not Rocket Science! with Baris Sarialioglu  
   UX Testing in Agile Teams with Kimberly Snoyl
 
-
-
-
 ====  
 08.2021 
-Preparing to
-
-Certified Tester ISTQB Foundation Level (CTFL) - Updated 2021
+Preparing to Certified Tester ISTQB Foundation Level (CTFL) - Updated 2021  
 
 1-2.12.2020
 https://labmasters.pl  
