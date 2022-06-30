@@ -9,19 +9,16 @@ Freelancing, gaining XP, tester on uTest.com
 TIME: Jun 22-23.2022  
 TestBash World 2022 HOSTED BY Ministry of Testing  
 
-====DRAFT===  
 15.02.2022 - QA Global Summit Junior Day (geekly.us) 
 13hrs lectures with examples of live solutions  
 In My opionion top Interesting performances:   
 - Flexible Data Setup and Caching For Cypress.io Tests with Gleg Bahmutov  (setup precondition and Save more than 2 min from your life 😉 Economies of scale are not excluded ) 
 - Testing in the Metaverse with Jonathon Wright  (rzeczywistość rozszerzona obok nas - przyszłość)  
 - How Automated Visual Regression Helped Us Release Faster with Confidence  
-  
 - UX  Testing - portion of philosophy. How sites, apps should be looks like to all of us:  
   User Experience (UX) Testing is not Rocket Science! with Baris Sarialioglu  
   UX Testing in Agile Teams with Kimberly Snoyl
-
-====  
+  
 08.2021 
 Preparing to Certified Tester ISTQB Foundation Level (CTFL) - Updated 2021  
 
