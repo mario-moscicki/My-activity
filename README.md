@@ -6,6 +6,9 @@ Due to the epidemic, learning is very difficult
 12.2021 - present  
 Freelancing, gaining XP, tester on uTest.com  
 
+TIME: Jun 22-23.2022  
+TestBash World 2022 HOSTED BY Ministry of Testing  
+
 ====DRAFT===  
 15.02.2022 - QA Global Summit Junior Day (geekly.us) 
 13hrs lectures with examples of live solutions  
